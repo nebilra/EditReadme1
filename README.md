@@ -1,4 +1,4 @@
-![5834572922994410514](https://github.com/user-attachments/assets/a6b58301-80e9-42ee-9757-268d7f47adba)LINUX KURULUM
+LINUX KURULUM
 
 1-ubuntu kurmamız gerekiyor
 
