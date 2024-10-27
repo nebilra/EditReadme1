@@ -1,6 +1,6 @@
 LINUX KURULUM
 
-1-ubuntu kurmamız gerekiyor
+1-ubuntu indirmemiz  gerekiyor
 
 ![5832321123180726279](https://github.com/user-attachments/assets/7686953b-a0eb-445c-b2dc-d7d2d8ab9f2e)
 
@@ -30,7 +30,7 @@ LINUX KURULUM
 7.2- dil seç
 
 ![5834572922994410509](https://github.com/user-attachments/assets/46d4689c-2316-457b-afec-d661bacbb664)
-7.3-7.3-klavye dili seçiyoruz next next basıyoruz 
+7.3-klavye dili seçiyoruz next next basıyoruz 
 
 7.4-internete bağlan
 
