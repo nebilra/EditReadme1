@@ -22,10 +22,10 @@ LINUX KURULUM
 
 ![5834572922994410499](https://github.com/user-attachments/assets/61fb1123-7dad-4f74-8a00-9cbd9eae2fe5)
 
-7-biglisayar yeniden başlatıp bios girmemiz gerekir
+7-biglisayar yeniden başlatıp biosa girmemiz gerekir
 
 ![5834572922994410504](https://github.com/user-attachments/assets/bee6c268-e0b2-4c51-b3a7-11c97bcbca92)
-7.1-bios girdekten sonra boot menu basarız ondan sonra  f5/f6 kullanarak linpus lite ust kısmda olması gerekiyor ardından f10 basarız 
+7.1-bios girdekten sonra boot menuya gideriz  ondan sonra  f5/f6 kullanarak linpus lite ust kısmda olması gerekiyor ardından f10 basarız 
 
 7.2- dil seç
 
