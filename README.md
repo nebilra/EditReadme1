@@ -1,4 +1,4 @@
-LINUX KURULUM
+![5834572922994410514](https://github.com/user-attachments/assets/a6b58301-80e9-42ee-9757-268d7f47adba)LINUX KURULUM
 
 1-ubuntu kurmamız gerekiyor
 
@@ -21,6 +21,39 @@ LINUX KURULUM
 6- oluşturduğumuz yeni birime yapıştırmamız lazım
 
 ![5834572922994410499](https://github.com/user-attachments/assets/61fb1123-7dad-4f74-8a00-9cbd9eae2fe5)
+
+7-biglisayar yeniden başlatıp bios girmemiz gerekir
+
+![5834572922994410504](https://github.com/user-attachments/assets/bee6c268-e0b2-4c51-b3a7-11c97bcbca92)
+7.1-bios girdekten sonra boot menu basarız ondan sonra  f5/f6 kullanarak linpus lite ust kısmda olması gerekiyor ardından f10 basarız 
+
+7.2- dil seç
+
+![5834572922994410509](https://github.com/user-attachments/assets/46d4689c-2316-457b-afec-d661bacbb664)
+7.3-7.3-klavye dili seçiyoruz next next basıyoruz 
+
+7.4-internete bağlan
+
+![5834572922994410510](https://github.com/user-attachments/assets/88e195aa-95c2-44a3-96e4-e154cb974102)
+
+7.5- bilgilerimizi girmemiz lazım  next 
+
+7.6-ubuntu nasil indirmek istiyorsunuz next
+
+![5834572922994410513](https://github.com/user-attachments/assets/11f19fd5-5af7-4d81-8d4e-7c0590e062fb)
+
+8- bitti 
+
+![5834572922994410514](https://github.com/user-attachments/assets/219b604d-effe-484e-870d-d070f813f16a)
+
+İYİ GÜNLER DILERIM
+
+
+
+
+
+
+
 
 
 
